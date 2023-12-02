@@ -2,7 +2,7 @@ class AventuraGrafica {
   constructor() {
     this.estado = 0;
     this.pantalla = new Pantalla();
-    this.cantPantallas = 37;
+    this.cantPantallas = 36;
     this.fondos = [];
     this.textos = [];
     
